@@ -5,11 +5,11 @@ My name is Olakunle Owolabi, I am a Full Stack Web Developer, heavy in backend d
 
 ## Projects/Portfolio website
 
-Visit [Portfolio website](https://olakunleowolabi.vercel.app/){:target="_blank"} to see my projects and updates
+Visit [Portfolio website](https://olakunleowolabi.vercel.app/){:target="_blank" rel="noopener"} to see my projects and updates
 
-Visit my E-commerce project [Uptuned](https://www.uptuned.shop/){:target="_blank"}
+Visit my E-commerce project [Uptuned](https://www.uptuned.shop/){:target="_blank" rel="noopener"}
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/olakunle-owolabi-64630995){:target="_blank"} for collaboration opportunities or to learn more about my work!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/olakunle-owolabi-64630995){:target="_blank" rel="noopener"} for collaboration opportunities or to learn more about my work!
 
 ## Front-End
 
