@@ -1,11 +1,9 @@
 
 # About Me
 
-My name is Olakunle Owolabi, I am a Full Stack Web Developer, heavy in backend development. I have a lot of expertise creating and managing web applications with contemporary tools like Prisma ORM, Node.js, PostgreSQL, and React.js, skilled at working with cross-functional teams to produce high-quality, scalable products. I design and build user-friendly, responsive websites and applications, ensuring seamless user experiences and robust functionality. I also deliver high-quality, maintainable code and stay updated with industry trends and best practices. Experienced with complex database design and structure, writing high performance API and server deployment. This is a summary of my project, portoflio and technology stacks:
+My name is Olakunle Owolabi, I am a Full Stack Web Developer, heavy in backend development. I have a lot of expertise creating and managing web applications with contemporary tools like Prisma ORM, Node.js, PostgreSQL, and React.js, skilled at working with cross-functional teams to produce high-quality, scalable products. I design and build user-friendly, responsive websites and applications, ensuring seamless user experiences and robust functionality. I also deliver high-quality, maintainable code and stay updated with industry trends and best practices. Experienced with complex database design and structure, writing high performance API and server deployment. This is a summary of my projects and technology stacks:
 
-## Projects/Portfolio website
-
-Visit [Portfolio website](https://olakunleowolabi.vercel.app/){:target="_blank" rel="noopener"} to see my projects and updates
+## Projects/LinkedIn website
 
 Visit my E-commerce project [Uptuned](https://www.uptuned.shop/){:target="_blank" rel="noopener"}
 
